@@ -24,5 +24,3 @@
 * create_follower_following (팔로우)
 * create_tag_webtoon (세분화된 장르 _ 태그)
 * create_comment_user (좋아요)
-# webchu2
-# webchu2
